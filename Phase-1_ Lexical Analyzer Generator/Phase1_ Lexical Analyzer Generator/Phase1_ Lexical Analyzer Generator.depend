@@ -1,0 +1,788 @@
+# depslib dependency file v1.0
+1490464831 source:e:\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"GrammerParser.h"
+	"BFS.h"
+
+1490460482 e:\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459131 e:\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1490371655 e:\phase1_ lexical analyzer generator\edge.h
+
+1490468343 source:e:\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1490371748 source:e:\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367794 e:\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490371748 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367794 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490460482 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459131 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1490371655 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\edge.h
+
+1490468343 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1490464831 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"GrammerParser.h"
+	"BFS.h"
+
+1490474661 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1490473586 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1490490619 source:e:\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1490473586 e:\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1490371748 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367794 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490460482 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459131 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1490371655 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\edge.h
+
+1490468343 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1490558837 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"GrammerParser.h"
+	"BFS.h"
+
+1490558247 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1490559060 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1490371748 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367794 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490460482 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459131 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1490371655 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\edge.h
+
+1490606646 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1490606578 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1490468343 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1490606752 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"GrammerParser.h"
+	"BFS.h"
+
+1490603457 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1490603287 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\minimization.h
+	"State.h"
+
+1490603644 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1490603622 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generatorfinal\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"State.h"
+
+1491525346 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367794 c:\users\8.1\desktop\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490460482 c:\users\8.1\desktop\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459131 c:\users\8.1\desktop\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491525346 c:\users\8.1\desktop\phase1_ lexical analyzer generator\edge.h
+
+1491525346 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491525346 c:\users\8.1\desktop\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491525346 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491565940 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+
+1491525346 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1491525346 c:\users\8.1\desktop\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"State.h"
+
+1491525346 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491525346 c:\users\8.1\desktop\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491568728 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491569817 c:\users\8.1\desktop\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491525346 c:\users\8.1\desktop\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491525325 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491567722 source:c:\users\8.1\desktop\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491524408 c:\users\8.1\desktop\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491525348 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367796 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490460484 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459132 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491525348 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\edge.h
+
+1491525348 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491525348 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491525348 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491525348 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491525348 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491655068 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491586232 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491525348 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491658464 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491645774 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+
+1491753729 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491646848 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491754412 source:e:\education\compilers cs321\project\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1491585954 e:\education\compilers cs321\project\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1491525346 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490367794 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490460482 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490459131 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491525346 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\edge.h
+
+1491525346 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491525346 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491525346 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491525346 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491525346 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491645772 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+
+1491586230 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491525346 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491569817 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491646755 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491585952 c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1491580818 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491592321 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1491645765 source:c:\users\8.1\downloads\phase1_-lexical-analyzer-generator_amr\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491561346 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490403794 c:\users\moham\desktop\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490496482 c:\users\moham\desktop\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490495131 c:\users\moham\desktop\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491561346 c:\users\moham\desktop\phase1_ lexical analyzer generator\edge.h
+
+1491561346 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491561346 c:\users\moham\desktop\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491561346 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491561346 c:\users\moham\desktop\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491561346 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491691067 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491622230 c:\users\moham\desktop\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491561346 c:\users\moham\desktop\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491694463 c:\users\moham\desktop\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491621952 c:\users\moham\desktop\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1491681772 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+
+1491682846 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491628321 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1491776653 source:c:\users\moham\desktop\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490403796 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490496484 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490495132 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\edge.h
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491849053 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491622232 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491694464 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491848357 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1491848821 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+
+1491848675 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491848763 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491849888 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490403796 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490496484 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490495132 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\edge.h
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491561348 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491860920 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491622232 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491561348 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491694464 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491848357 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1491848821 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+
+1491848675 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491855189 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491849888 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1491868914 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase1\phase1_ lexical analyzer generator2\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491557748 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\bfs.cpp
+	"BFS.h"
+
+1490400196 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\bfs.h
+	<bits/stdc++.h>
+	"Graph.h"
+
+1490492884 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\graph.h
+	<stack>
+	"State.h"
+
+1490491532 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491557748 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\edge.h
+
+1491557748 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\dfa_state.cpp
+	"DFA_State.h"
+
+1491557748 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\dfa_state.h
+	<bits/stdc++.h>
+
+1491865314 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491557748 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\grammerparser.h
+	"Graph.h"
+
+1491557748 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491857320 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1491618632 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+	"BFS.h"
+
+1491557748 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491690864 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491844757 c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1491845075 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\minimization.cpp
+	"Minimization.h"
+
+1491851589 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1491846288 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\tokens.cpp
+	"Tokens.h"
+
+1492035383 source:c:\users\8.1\downloads\phase1\phase1_ lexical analyzer generator\main.cpp
+	<bits/stdc++.h>
+	"Lexical_Analyzer.h"
+

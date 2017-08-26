@@ -1,0 +1,17 @@
+int sum ,count , pass,
+mnt; while ( pass != 10)
+{
+	pass = pass + 1;
+}
+NFA_To_DFA dfa(nfa_graph, input, tokens);
+    vector < vector < DFA_State > > dfa_table = dfa.get_DFA_table();
+    vector < DFA_State > dfa_states = dfa.get_DFA_states();
+
+    unordered_map<string, int> acc_tokens_map;
+    for(int i=tokens.size()-1; i>=0; i--)
+    {
+        acc_tokens_map[tokens[i]] = i;
+    }
+hamada
+
+ 

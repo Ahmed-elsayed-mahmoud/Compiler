@@ -1,0 +1,447 @@
+# depslib dependency file v1.0
+1492621518 source:e:\phase-2_parser generator\main.cpp
+	<bits/stdc++.h>
+	"CFG_Parser.h"
+
+1492620493 source:e:\phase-2_parser generator\rule.cpp
+	"Rule.h"
+
+1492622292 source:e:\phase-2_parser generator\cfg_parser.cpp
+	"CFG_Parser.h"
+
+1492622358 e:\phase-2_parser generator\cfg_parser.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1492622377 e:\phase-2_parser generator\symbol.h
+	<bits/stdc++.h>
+	"Rule.h"
+
+1492622332 e:\phase-2_parser generator\rule.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"StringHelp.h"
+	"CFG_Parser.h"
+
+1492622392 e:\phase-2_parser generator\stringhelp.h
+	<bits/stdc++.h>
+
+1492620092 source:e:\phase-2_parser generator\symbol.cpp
+	"Symbol.h"
+
+1492622292 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\cfg_parser.cpp
+	"CFG_Parser.h"
+
+1492622358 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\cfg_parser.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1492622377 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\symbol.h
+	<bits/stdc++.h>
+	"Rule.h"
+
+1492622332 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\rule.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"StringHelp.h"
+	"CFG_Parser.h"
+
+1492622392 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\stringhelp.h
+	<bits/stdc++.h>
+
+1492622422 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\rule.cpp
+	"Rule.h"
+
+1492620092 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\symbol.cpp
+	"Symbol.h"
+
+1492794382 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\main.cpp
+	<bits/stdc++.h>
+	"CFG_Parser.h"
+	"Parsing_Table.h"
+	"Matcher.h"
+
+1492794360 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\parsing_table.cpp
+	"Parsing_Table.h"
+	<vector>
+
+1492792588 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\parsing_table.h
+	"Rule.h"
+	"Production_Rule.h"
+	<set>
+
+1492708238 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\production_rule.cpp
+	"Production_Rule.h"
+
+1492708212 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\production_rule.h
+	"Rule.h"
+
+1492717267 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\matcher.h
+	<vector>
+	<unordered_map>
+	<stack>
+	<iostream>
+	<sstream>
+	<iterator>
+
+1492794156 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\new folder\phase-2_parser generator\matcher.cpp
+	"Matcher.h"
+
+1492802671 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\cfg_parser.cpp
+	"CFG_Parser.h"
+
+1492801569 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\cfg_parser.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1492622376 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\symbol.h
+	<bits/stdc++.h>
+	"Rule.h"
+
+1492637126 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\rule.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"StringHelp.h"
+	"CFG_Parser.h"
+
+1492622392 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\stringhelp.h
+	<bits/stdc++.h>
+
+1492804073 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\main.cpp
+	<bits/stdc++.h>
+	"CFG_Parser.h"
+	"Parsing_Table.h"
+	"Generate_LL_Grammar.h"
+	"Matcher.h"
+
+1492792588 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\parsing_table.h
+	"Rule.h"
+	"Production_Rule.h"
+	<set>
+
+1492708212 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\production_rule.h
+	"Rule.h"
+
+1492717266 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\matcher.h
+	<vector>
+	<unordered_map>
+	<stack>
+	<iostream>
+	<sstream>
+	<iterator>
+
+1492794156 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\matcher.cpp
+	"Matcher.h"
+
+1492794360 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\parsing_table.cpp
+	"Parsing_Table.h"
+	<vector>
+
+1492708238 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\production_rule.cpp
+	"Production_Rule.h"
+
+1492804356 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\rule.cpp
+	"Rule.h"
+
+1492620092 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\symbol.cpp
+	"Symbol.h"
+
+1492803900 source:c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\generate_ll_grammar.cpp
+	"Generate_LL_Grammar.h"
+
+1492803643 c:\users\8.1\downloads\phase-2_parser-generator\phase-2_parser generator\generate_ll_grammar.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1493340380 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\cfg_parser.cpp
+	"CFG_Parser.h"
+
+1493323471 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\cfg_parser.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1492622376 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\symbol.h
+	<bits/stdc++.h>
+	"Rule.h"
+
+1492637126 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\rule.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"StringHelp.h"
+	"CFG_Parser.h"
+
+1492622392 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\stringhelp.h
+	<bits/stdc++.h>
+
+1493340410 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\generate_ll_grammar.cpp
+	"Generate_LL_Grammar.h"
+
+1493340433 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\generate_ll_grammar.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1492794156 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\matcher.cpp
+	"Matcher.h"
+
+1492717266 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\matcher.h
+	<vector>
+	<unordered_map>
+	<stack>
+	<iostream>
+	<sstream>
+	<iterator>
+
+1492708238 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\production_rule.cpp
+	"Production_Rule.h"
+
+1492708212 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\production_rule.h
+	"Rule.h"
+
+1492804356 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\rule.cpp
+	"Rule.h"
+
+1492620092 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\symbol.cpp
+	"Symbol.h"
+
+1493394005 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\parsing_table.cpp
+	"Parsing_Table.h"
+	<vector>
+
+1493318094 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\parsing_table.h
+	"Rule.h"
+	"Production_Rule.h"
+	<set>
+
+1493340618 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\main.cpp
+	<bits/stdc++.h>
+	"CFG_Parser.h"
+	"Parsing_Table.h"
+	"Generate_LL_Grammar.h"
+	"Matcher.h"
+	"Lexical/Lexical_Analyzer.h"
+
+1491557748 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\dfa_state.cpp
+	"DFA_State.h"
+
+1491557748 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\dfa_state.h
+	<bits/stdc++.h>
+
+1492971146 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491557748 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\grammerparser.h
+	"Graph.h"
+
+1490492884 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\graph.h
+	<stack>
+	"State.h"
+
+1490491532 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491557748 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\edge.h
+
+1491557748 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1493318250 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1493291908 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491557748 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491690864 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491844756 d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1493108212 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\minimization.cpp
+	"Minimization.h"
+
+1491851588 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1493108212 source:d:\college\computerdepartment\3rdcomputer\2ndterm\compilers\project\phase2\phase-2_parser-generator_final\phase-2_parser-generator\phase-2_parser generator\lexical\tokens.cpp
+	"Tokens.h"
+
+1493340410 source:c:\users\8.1\desktop\phase-2_parser generator\generate_ll_grammar.cpp
+	"Generate_LL_Grammar.h"
+
+1493340433 c:\users\8.1\desktop\phase-2_parser generator\generate_ll_grammar.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1492622376 c:\users\8.1\desktop\phase-2_parser generator\symbol.h
+	<bits/stdc++.h>
+	"Rule.h"
+
+1492637126 c:\users\8.1\desktop\phase-2_parser generator\rule.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"StringHelp.h"
+	"CFG_Parser.h"
+
+1492622392 c:\users\8.1\desktop\phase-2_parser generator\stringhelp.h
+	<bits/stdc++.h>
+
+1493323471 c:\users\8.1\desktop\phase-2_parser generator\cfg_parser.h
+	<bits/stdc++.h>
+	"Symbol.h"
+	"Rule.h"
+
+1491557748 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\dfa_state.cpp
+	"DFA_State.h"
+
+1491557748 c:\users\8.1\desktop\phase-2_parser generator\lexical\dfa_state.h
+	<bits/stdc++.h>
+
+1492971146 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\grammerparser.cpp
+	<iostream>
+	<regex>
+	<stack>
+	<math.h>
+	"GrammerParser.h"
+
+1491557748 c:\users\8.1\desktop\phase-2_parser generator\lexical\grammerparser.h
+	"Graph.h"
+
+1490492884 c:\users\8.1\desktop\phase-2_parser generator\lexical\graph.h
+	<stack>
+	"State.h"
+
+1490491532 c:\users\8.1\desktop\phase-2_parser generator\lexical\state.h
+	<bits/stdc++.h>
+	"Edge.h"
+
+1491557748 c:\users\8.1\desktop\phase-2_parser generator\lexical\edge.h
+
+1491557748 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\graph.cpp
+	<bits/stdc++.h>
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1493318250 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\lexical_analyzer.cpp
+	"Lexical_Analyzer.h"
+
+1493291908 c:\users\8.1\desktop\phase-2_parser generator\lexical\lexical_analyzer.h
+	<bits/stdc++.h>
+	"GrammerParser.h"
+	"NFA_To_DFA.h"
+	"Minimization.h"
+	"DFA_State.h"
+	"Tokens.h"
+	"State.h"
+	"Edge.h"
+	"Graph.h"
+
+1491557748 c:\users\8.1\desktop\phase-2_parser generator\lexical\nfa_to_dfa.h
+	"Graph.h"
+	"State.h"
+	"Edge.h"
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491690864 c:\users\8.1\desktop\phase-2_parser generator\lexical\minimization.h
+	"DFA_State.h"
+	<bits/stdc++.h>
+
+1491844756 c:\users\8.1\desktop\phase-2_parser generator\lexical\tokens.h
+	<string.h>
+	<stack>
+	<fstream>
+	"DFA_State.h"
+
+1493108212 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\minimization.cpp
+	"Minimization.h"
+
+1491851588 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\nfa_to_dfa.cpp
+	"NFA_To_DFA.h"
+	"DFA_State.h"
+	"State.h"
+	<queue>
+
+1493108212 source:c:\users\8.1\desktop\phase-2_parser generator\lexical\tokens.cpp
+	"Tokens.h"
+
+1493318882 source:c:\users\8.1\desktop\phase-2_parser generator\main.cpp
+	<bits/stdc++.h>
+	"CFG_Parser.h"
+	"Parsing_Table.h"
+	"Generate_LL_Grammar.h"
+	"Matcher.h"
+	"Lexical/Lexical_Analyzer.h"
+
+1493318094 c:\users\8.1\desktop\phase-2_parser generator\parsing_table.h
+	"Rule.h"
+	"Production_Rule.h"
+	<set>
+
+1492708212 c:\users\8.1\desktop\phase-2_parser generator\production_rule.h
+	"Rule.h"
+
+1492717266 c:\users\8.1\desktop\phase-2_parser generator\matcher.h
+	<vector>
+	<unordered_map>
+	<stack>
+	<iostream>
+	<sstream>
+	<iterator>
+
+1492794156 source:c:\users\8.1\desktop\phase-2_parser generator\matcher.cpp
+	"Matcher.h"
+
+1493318430 source:c:\users\8.1\desktop\phase-2_parser generator\parsing_table.cpp
+	"Parsing_Table.h"
+	<vector>
+
+1492708238 source:c:\users\8.1\desktop\phase-2_parser generator\production_rule.cpp
+	"Production_Rule.h"
+
+1492804356 source:c:\users\8.1\desktop\phase-2_parser generator\rule.cpp
+	"Rule.h"
+
+1492620092 source:c:\users\8.1\desktop\phase-2_parser generator\symbol.cpp
+	"Symbol.h"
+
+1493340380 source:c:\users\8.1\desktop\phase-2_parser generator\cfg_parser.cpp
+	"CFG_Parser.h"
+

@@ -1,0 +1,19 @@
+Follow :
+--------
+METHOD_BODY : $ 
+STATEMENT_LIST : $ 
+STATEMENT : $ float id if int while } 
+DECLARATION : $ float id if int while } 
+IF : $ float id if int while } 
+WHILE : $ float id if int while } 
+ASSIGNMENT : $ float id if int while } 
+PRIMITIVE_TYPE : id 
+EXPRESSION : ) ; 
+SIMPLE_EXPRESSION : ) ; relop 
+TERM : ) ; addop relop 
+SIGN : ( id num 
+FACTOR : ) ; addop mulop relop 
+STATEMENT_LIST' : $ 
+SIMPLE_EXPRESSION' : ) ; relop 
+TERM' : ) ; addop relop 
+EXPRESSION' : ) ; 

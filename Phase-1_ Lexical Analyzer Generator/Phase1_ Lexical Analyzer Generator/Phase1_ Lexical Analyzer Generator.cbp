@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Phase1_ Lexical Analyzer Generator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Phase1_ Lexical Analyzer Generator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Phase1_ Lexical Analyzer Generator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BFS.cpp" />
+		<Unit filename="BFS.h" />
+		<Unit filename="DFA_State.cpp" />
+		<Unit filename="DFA_State.h" />
+		<Unit filename="Edge.h" />
+		<Unit filename="GrammerParser.cpp" />
+		<Unit filename="GrammerParser.h" />
+		<Unit filename="Graph.cpp" />
+		<Unit filename="Graph.h" />
+		<Unit filename="Lexical_Analyzer.cpp" />
+		<Unit filename="Lexical_Analyzer.h" />
+		<Unit filename="Minimization.cpp" />
+		<Unit filename="Minimization.h" />
+		<Unit filename="NFA_To_DFA.cpp" />
+		<Unit filename="NFA_To_DFA.h" />
+		<Unit filename="State.h" />
+		<Unit filename="Tokens.cpp" />
+		<Unit filename="Tokens.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

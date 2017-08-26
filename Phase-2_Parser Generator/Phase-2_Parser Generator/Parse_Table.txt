@@ -1,0 +1,358 @@
+Printing Table :
+....................................................
+METHOD_BODY
+id :  STATEMENT_LIST 	
+; :  Empty
+int :  STATEMENT_LIST 	
+float :  STATEMENT_LIST 	
+if :  STATEMENT_LIST 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  STATEMENT_LIST 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+STATEMENT_LIST
+id :  STATEMENT STATEMENT_LIST' 	
+; :  Empty
+int :  STATEMENT STATEMENT_LIST' 	
+float :  STATEMENT STATEMENT_LIST' 	
+if :  STATEMENT STATEMENT_LIST' 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  STATEMENT STATEMENT_LIST' 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+STATEMENT
+id :  ASSIGNMENT 	
+; :  Empty
+int :  DECLARATION 	
+float :  DECLARATION 	
+if :  IF 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Synch 	
+else :  Empty
+while :  WHILE 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+DECLARATION
+id :  Synch 	
+; :  Empty
+int :  PRIMITIVE_TYPE id ; 	
+float :  PRIMITIVE_TYPE id ; 	
+if :  Synch 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Synch 	
+else :  Empty
+while :  Synch 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+IF
+id :  Synch 	
+; :  Empty
+int :  Synch 	
+float :  Synch 	
+if :  if ( EXPRESSION ) { STATEMENT } else { STATEMENT } 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Synch 	
+else :  Empty
+while :  Synch 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+WHILE
+id :  Synch 	
+; :  Empty
+int :  Synch 	
+float :  Synch 	
+if :  Synch 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Synch 	
+else :  Empty
+while :  while ( EXPRESSION ) { STATEMENT } 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+ASSIGNMENT
+id :  id assign EXPRESSION ; 	
+; :  Empty
+int :  Synch 	
+float :  Synch 	
+if :  Synch 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Synch 	
+else :  Empty
+while :  Synch 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Synch 	
+....................................................
+PRIMITIVE_TYPE
+id :  Synch 	
+; :  Empty
+int :  int 	
+float :  float 	
+if :  Empty
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Empty
+....................................................
+EXPRESSION
+id :  SIMPLE_EXPRESSION EXPRESSION' 	
+; :  Synch 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  SIMPLE_EXPRESSION EXPRESSION' 	
+) :  Synch 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  SIMPLE_EXPRESSION EXPRESSION' 	
++ :  SIMPLE_EXPRESSION EXPRESSION' 	
+- :  SIMPLE_EXPRESSION EXPRESSION' 	
+$ :  Empty
+....................................................
+SIMPLE_EXPRESSION
+id :  TERM SIMPLE_EXPRESSION' 	
+; :  Synch 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  TERM SIMPLE_EXPRESSION' 	
+) :  Synch 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  Synch 	
+addop :  Empty
+mulop :  Empty
+num :  TERM SIMPLE_EXPRESSION' 	
++ :  SIGN TERM SIMPLE_EXPRESSION' 	
+- :  SIGN TERM SIMPLE_EXPRESSION' 	
+$ :  Empty
+....................................................
+TERM
+id :  FACTOR TERM' 	
+; :  Synch 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  FACTOR TERM' 	
+) :  Synch 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  Synch 	
+addop :  Synch 	
+mulop :  Empty
+num :  FACTOR TERM' 	
++ :  Empty
+- :  Empty
+$ :  Empty
+....................................................
+SIGN
+id :  Synch 	
+; :  Empty
+int :  Empty
+float :  Empty
+if :  Empty
+( :  Synch 	
+) :  Empty
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Synch 	
++ :  + 	
+- :  - 	
+$ :  Empty
+....................................................
+FACTOR
+id :  id 	
+; :  Synch 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  ( EXPRESSION ) 	
+) :  Synch 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  Synch 	
+addop :  Synch 	
+mulop :  Synch 	
+num :  num 	
++ :  Empty
+- :  Empty
+$ :  Empty
+....................................................
+STATEMENT_LIST'
+id :  STATEMENT STATEMENT_LIST' 	
+; :  Empty
+int :  STATEMENT STATEMENT_LIST' 	
+float :  STATEMENT STATEMENT_LIST' 	
+if :  STATEMENT STATEMENT_LIST' 	
+( :  Empty
+) :  Empty
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  STATEMENT STATEMENT_LIST' 	
+assign :  Empty
+relop :  Empty
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  \L 	
+....................................................
+SIMPLE_EXPRESSION'
+id :  Empty
+; :  \L 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  Empty
+) :  \L 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  \L 	
+addop :  addop TERM SIMPLE_EXPRESSION' 	
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Empty
+....................................................
+TERM'
+id :  Empty
+; :  \L 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  Empty
+) :  \L 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  \L 	
+addop :  \L 	
+mulop :  mulop FACTOR TERM' 	
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Empty
+....................................................
+EXPRESSION'
+id :  Empty
+; :  \L 	
+int :  Empty
+float :  Empty
+if :  Empty
+( :  Empty
+) :  \L 	
+{ :  Empty
+} :  Empty
+else :  Empty
+while :  Empty
+assign :  Empty
+relop :  relop SIMPLE_EXPRESSION 	
+addop :  Empty
+mulop :  Empty
+num :  Empty
++ :  Empty
+- :  Empty
+$ :  Empty

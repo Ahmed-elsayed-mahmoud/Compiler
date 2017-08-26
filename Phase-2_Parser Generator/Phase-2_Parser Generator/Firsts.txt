@@ -1,0 +1,19 @@
+Firsts :
+--------
+METHOD_BODY : float id if int while 
+STATEMENT_LIST : float id if int while 
+STATEMENT : float id if int while 
+DECLARATION : float int 
+IF : if 
+WHILE : while 
+ASSIGNMENT : id 
+PRIMITIVE_TYPE : float int 
+EXPRESSION : ( + - id num 
+SIMPLE_EXPRESSION : ( + - id num 
+TERM : ( id num 
+SIGN : + - 
+FACTOR : ( id num 
+STATEMENT_LIST' : \L float id if int while 
+SIMPLE_EXPRESSION' : \L addop 
+TERM' : \L mulop 
+EXPRESSION' : \L relop 

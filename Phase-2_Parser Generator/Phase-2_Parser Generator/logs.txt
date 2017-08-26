@@ -1,0 +1,7 @@
+************* Lexical Analyzer *****************
+************* Predictive Parser ****************
+Not LL(1) Grammar;
+Left Recursion in:  STATEMENT_LIST
+Left Factor in:  EXPRESSION
+Left Recursion in:  SIMPLE_EXPRESSION
+Left Recursion in:  TERM

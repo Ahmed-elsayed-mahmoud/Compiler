@@ -1,0 +1,19 @@
+int x ; 
+x = 5;
+if ( x == 5 )
+{ 
+	x = 100;
+	int i;
+	for(i=0; i<9; i=i+1;){
+		System.out.println(i);
+	}
+	while(i >= 0){
+		System.out.println(i);
+		i = i - 1;
+	}
+}
+else
+{
+	x= 9;
+}
+System.out.println(x);

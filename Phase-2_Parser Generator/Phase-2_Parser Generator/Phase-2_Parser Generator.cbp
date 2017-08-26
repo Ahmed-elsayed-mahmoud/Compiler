@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Phase-2_Parser Generator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Phase-2_Parser Generator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Phase-2_Parser Generator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CFG_Parser.cpp" />
+		<Unit filename="CFG_Parser.h" />
+		<Unit filename="ContextFreeGrammar.txt" />
+		<Unit filename="Firsts.txt" />
+		<Unit filename="Follow.txt" />
+		<Unit filename="Generate_LL_Grammar.cpp" />
+		<Unit filename="Generate_LL_Grammar.h" />
+		<Unit filename="Lexical/DFA_State.cpp" />
+		<Unit filename="Lexical/DFA_State.h" />
+		<Unit filename="Lexical/Edge.h" />
+		<Unit filename="Lexical/GrammerParser.cpp" />
+		<Unit filename="Lexical/GrammerParser.h" />
+		<Unit filename="Lexical/Graph.cpp" />
+		<Unit filename="Lexical/Graph.h" />
+		<Unit filename="Lexical/Lexical_Analyzer.cpp" />
+		<Unit filename="Lexical/Lexical_Analyzer.h" />
+		<Unit filename="Lexical/Minimization.cpp" />
+		<Unit filename="Lexical/Minimization.h" />
+		<Unit filename="Lexical/NFA_To_DFA.cpp" />
+		<Unit filename="Lexical/NFA_To_DFA.h" />
+		<Unit filename="Lexical/State.h" />
+		<Unit filename="Lexical/Tokens.cpp" />
+		<Unit filename="Lexical/Tokens.h" />
+		<Unit filename="Lexical/errorFile.txt" />
+		<Unit filename="Lexical/inputFile.txt" />
+		<Unit filename="Lexical/outputFile.txt" />
+		<Unit filename="Lexical/regular_expressions.txt" />
+		<Unit filename="Lexical/symbolFile.txt" />
+		<Unit filename="Lexical/tables.txt" />
+		<Unit filename="Matcher.cpp" />
+		<Unit filename="Matcher.h" />
+		<Unit filename="Parse_Table.txt" />
+		<Unit filename="Parsing_Table.cpp" />
+		<Unit filename="Parsing_Table.h" />
+		<Unit filename="Production_Rule.cpp" />
+		<Unit filename="Production_Rule.h" />
+		<Unit filename="Reconstructed_Parse_Table.txt" />
+		<Unit filename="Rule.cpp" />
+		<Unit filename="Rule.h" />
+		<Unit filename="StringHelp.h" />
+		<Unit filename="Symbol.cpp" />
+		<Unit filename="Symbol.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="parserOutput.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
